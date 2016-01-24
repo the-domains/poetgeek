@@ -4,7 +4,7 @@
         <description><![CDATA[PoetGeek - Eric Williamson]]></description>
         <link>https://thegrid.ai/poetgeek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 19:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 19:06:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poetgeek/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/poetgeek/352fcb13-4fbf-4c01-bb61-0006d7af9f36/index.html</link>
             <guid isPermaLink="false">352fcb13-4fbf-4c01-bb61-0006d7af9f36</guid>
             <pubDate>Sun, 24 Jan 2016 18:50:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Perhaps we expect too much (excerpts 1) by Eric Williamson</p>]]></description>
+            <link>https://thegrid.ai/poetgeek/62f31dbe-d365-446b-b0f0-dc5f160d7365/index.html</link>
+            <guid isPermaLink="false">62f31dbe-d365-446b-b0f0-dc5f160d7365</guid>
+            <pubDate>Sun, 24 Jan 2016 19:06:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
