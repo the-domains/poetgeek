@@ -1,6 +1,6 @@
 name: PoetGeek
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.07617008383385837
 title: PoetGeek - Eric Williamson
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.6668687877245247
+  brandStrength: 0.5
   lightness: 0.4600597301032394
   saturation: 0.7250865481328219
   rhythmicContrast: 0.5589220747351646
