@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: Original Poem
-datePublished: '2016-01-24T18:59:57.207Z'
-dateModified: '2016-01-24T18:59:53.375Z'
-title: Perhaps we expect too much (excerpts 1)
+description: ''
+datePublished: '2016-01-24T19:02:22.298Z'
+dateModified: '2016-01-24T19:02:18.036Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-24-perhaps-we-expect-too-much-excerpts-1.md
 published: true
