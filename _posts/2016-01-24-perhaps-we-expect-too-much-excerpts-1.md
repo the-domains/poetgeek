@@ -6,24 +6,24 @@ inLanguage: null
 starred: true
 keywords: []
 description: Original Poem
-datePublished: '2016-01-24T18:41:52.215Z'
-dateModified: '2016-01-24T18:41:17.095Z'
+datePublished: '2016-01-24T18:59:57.124Z'
+dateModified: '2016-01-24T18:59:53.375Z'
 title: Perhaps we expect too much (excerpts 1)
 author: []
+sourcePath: _posts/2016-01-24-perhaps-we-expect-too-much-excerpts-1.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-24-perhaps-we-expect-too-much-excerpts-1.md
-published: true
 url: perhaps-we-expect-too-much-excerpts-1/index.html
 _type: Article
 
 ---
 Perhaps we expect too much (excerpts 1) by Eric Williamson
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a5926193c4f896ff462fa65958ae0a228ce38ef.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/664a40dd467201eba3c6ac778333885c337d3be6.jpg)
 
 When we breathe   
 We breathe memory 
